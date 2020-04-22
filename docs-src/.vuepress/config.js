@@ -16,7 +16,7 @@ module.exports = {
 
       autoCreateIssue: false,
       prefix: '[Docs]',
-      labels: ['First draft'],
+      labels: ['FirstDraft'],
     },
   },  
   themeConfig: {
