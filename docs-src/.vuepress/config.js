@@ -17,6 +17,7 @@ module.exports = {
       autoCreateIssue: false,
       prefix: '[Docs]',
       labels: ['FirstDraft'],
+      admins: ['benji2006'],
     },
   },  
   themeConfig: {
