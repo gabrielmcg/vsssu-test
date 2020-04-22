@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Rancher on HPE SimpliVity',
+  title: 'vssue test',
   dest: '../MVI1/',
-  base: '/Rancher-on-SimpliVity/MVI1/',   
+  base: '/vsssu-test/MVI1/',   
   plugins: ['vuepress-plugin-export'], 
   themeConfig: {
     nav: [
