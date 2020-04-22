@@ -9,3 +9,4 @@ during HA failover scenarios. Since the HPE SimpliVity technology relies on VMwa
 managed using vCenter.
 
 For more details, see the Bill of Materials in `Appendix A`.
+<Vssue :title="$title" />
