@@ -57,3 +57,5 @@ cloud and hybrid deployments using a single technology and avoiding vendor lock-
 Kubernetes has on the DevOps mindset.
 
 For more information on Kubernetes, refer to [https://kubernetes.io/](https://kubernetes.io/)
+
+<Vssue :title="$title" />

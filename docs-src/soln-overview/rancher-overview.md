@@ -35,3 +35,4 @@ services including DHCP. The Rancher server software is deployed on each of the 
 Rancher for unified management. This solution can be used to deploy one or more user clusters on vSphere
 running on HPE SimpliVity hardware.
 
+<Vssue :title="$title" />

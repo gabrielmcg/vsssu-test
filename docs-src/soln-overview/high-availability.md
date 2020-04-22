@@ -26,3 +26,6 @@ are guaranteed to run on two different ESXi host through using an anti-affinity 
 ```
 
 where `cluster_name` is the name of your cluster, as defined in the `group_vars/all/vars.yml` file.
+
+<Vssue :title="$title" />
+

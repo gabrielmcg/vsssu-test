@@ -20,3 +20,4 @@ vSphere), while providing DevOps teams with integrated tools for running contain
 **HPE SimpliVity** is an enterprise-grade hyper-converged platform uniting best-in-class data services with the world's
 best-selling server ([HPE SimpliVity overview](simplivity-overview)).
 
+<Vssue :title="$title" />
