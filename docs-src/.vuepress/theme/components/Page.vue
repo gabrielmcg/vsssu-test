@@ -4,7 +4,7 @@
 
     <Content class="theme-default-content"/>
 
-    
+    <Vssue :title="$title" />
 
     <footer class="page-edit">
 

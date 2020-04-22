@@ -58,4 +58,4 @@ Kubernetes has on the DevOps mindset.
 
 For more information on Kubernetes, refer to [https://kubernetes.io/](https://kubernetes.io/)
 
-<Vssue :title="$title" />
+ 

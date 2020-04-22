@@ -25,4 +25,4 @@ RKE will need to connect to each node over SSH, and it will look for a private k
 [simplivity-rancher-architecture-png]:<../images/simplivity-rancher-architecture.png> "Figure. Rancher on HPE SimpliVity architecture"
 
 
-<Vssue :title="$title" />
+ 

@@ -17,4 +17,4 @@ simplified and changed how customers can manage and support their infrastructure
 More information about HPE SimpliVity can be found
 at [https://www.hpe.com/us/en/integrated-systems/simplivity.html](https://www.hpe.com/us/en/integrated-systems/simplivity.html)
 
-<Vssue :title="$title" />
+ 

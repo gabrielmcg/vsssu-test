@@ -41,4 +41,4 @@ By default, one master and two worker nodes are deployed.
 |Master|1|Ubuntu 18.04|2x&nbsp;vCPU<br>8GB RAM<br>60GB disk space||
 |Worker|2|Ubuntu 18.04|2x&nbsp;vCPU<br>8GB RAM<br>60GB disk space||
 
-<Vssue :title="$title" />
+ 
