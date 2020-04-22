@@ -4,7 +4,7 @@
 
     <Content class="theme-default-content"/>
 
-    <Vssue :title="$title" />
+    <Vssue :title="$title" :key="$route.path" />
 
     <footer class="page-edit">
 
