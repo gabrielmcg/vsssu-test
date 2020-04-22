@@ -13,6 +13,8 @@ module.exports = {
       repo: 'vsssu-test',
       clientId: '58496616139e25a13d0c',
       clientSecret: '25a6079ae9b60be7c2f6a3a55f6415079e90a263',
+
+      autoCreateIssue: true,
     },
   },  
   themeConfig: {
