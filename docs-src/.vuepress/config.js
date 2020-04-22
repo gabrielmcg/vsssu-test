@@ -2,7 +2,19 @@ module.exports = {
   title: 'vssue test',
   dest: '../MVI1/',
   base: '/vsssu-test/MVI1/',   
-  plugins: ['vuepress-plugin-export'], 
+  //plugins: ['vuepress-plugin-export'], 
+  plugins: {
+    '@vssue/vuepress-plugin-vssue': {
+      // set `platform` rather than `api`
+      platform: 'github',
+
+      // all other options of Vssue are allowed
+      owner: 'gabrielmcg',
+      repo: 'vsssu-test',
+      clientId: '58496616139e25a13d0c',
+      clientSecret: '25a6079ae9b60be7c2f6a3a55f6415079e90a263',
+    },
+  },  
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
