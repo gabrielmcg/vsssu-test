@@ -4,6 +4,8 @@
 
     <Content class="theme-default-content"/>
 
+    
+
     <footer class="page-edit">
 
       
@@ -61,7 +63,7 @@
     </div>
 
    
-     <Vssue :title="$title" />
+     
 
     <slot name="bottom"/>
   </main>

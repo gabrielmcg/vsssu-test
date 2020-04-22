@@ -34,3 +34,4 @@ As with most configuration management software, Ansible has two types of servers
 
 More information about Ansible can be found at [http://docs.ansible.com](http://docs.ansible.com)
 
+<Vssue :title="$title" />
