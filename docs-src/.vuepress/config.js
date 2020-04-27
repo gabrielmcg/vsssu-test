@@ -11,8 +11,8 @@ module.exports = {
       // all other options of Vssue are allowed
       owner: 'gabrielmcg',
       repo: 'vsssu-test',
-      clientId: '58496616139e25a13d0c',
-      clientSecret: '25a6079ae9b60be7c2f6a3a55f6415079e90a263',
+      clientId: process.env.VUE_APP_VSSUE_CLIENTID,
+      clientSecret: process.env.VUE_APP_VSSUE_CLIENTSECRET,
 
       autoCreateIssue: false,
       prefix: '[Docs]',
@@ -22,7 +22,7 @@ module.exports = {
   },  
   themeConfig: {
     nav: [
-      { text: process.env.VUE_APP_VSSUE_CLIENTID, link: '/' },
+      { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/' }
     ],
 
