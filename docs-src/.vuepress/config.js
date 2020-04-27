@@ -22,7 +22,7 @@ module.exports = {
   },  
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
+      { text: process.env.VUE_APP_VSSUE_CLIENTID, link: '/' },
       { text: 'Blog', link: '/blog/' }
     ],
 
