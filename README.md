@@ -1,3 +1,3 @@
 # vsssu-test
 
-noop
+noop for pages
