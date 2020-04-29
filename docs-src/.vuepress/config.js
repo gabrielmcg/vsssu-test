@@ -14,6 +14,8 @@ module.exports = {
       clientId: process.env.VUE_APP_VSSUE_CLIENTID,
       clientSecret: process.env.VUE_APP_VSSUE_CLIENTSECRET,
 
+      proxy: url => `https://my-vssue-29042020.azurewebsites.net/?target=${url}`,
+
       autoCreateIssue: false,
       prefix: '[Docs]',
       labels: ['FirstDraft'],
